@@ -1,0 +1,10 @@
+G:\Installation-Wizard\Installer\DropboxAPI\DropboxAPI\obj\x86\Release\DownloadManager.csproj.App.config
+G:\Installation-Wizard\Installer\DownloadManager.exe.config
+G:\Installation-Wizard\Installer\DropboxAPI\DropboxAPI\obj\x86\Release\DownloadManager.exe
+G:\Installation-Wizard\Installer\DropboxAPI\DropboxAPI\obj\x86\Release\DownloadManager.pdb
+G:\Installation-Wizard\Installer\DownloadManager.exe
+G:\Installation-Wizard\Installer\DownloadManager.pdb
+C:\Installation-Wizard\Installer\DownloadManager.exe.config
+C:\Installation-Wizard\Installer\DownloadManager.exe
+C:\Installation-Wizard\Installer\DownloadManager.pdb
+G:\Installation-Wizard\Installer\DropboxAPI\DropboxAPI\obj\x86\Release\DownloadManager.csprojResolveAssemblyReference.cache
